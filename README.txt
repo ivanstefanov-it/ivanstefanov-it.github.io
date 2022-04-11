@@ -1,1 +1,1 @@
-## <https://ivanstefanov-it.github.io/>
+https://ivanstefanov-it.github.io/
